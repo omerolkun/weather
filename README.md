@@ -1,8 +1,8 @@
 # weather
 
-The script gets the temperature at considered city with the help of OWM (Open Weather Map) in different times.
+The script gets the temperature at a considered city with the help of OWM (Open Weather Map) at different times.
 
-It inserts the data into a sqlite database.
+It inserts the data into a SQLite database.
 
 **Requirements:**
 
